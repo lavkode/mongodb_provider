@@ -5,5 +5,5 @@ class LKMongoProvider(DBProviderInterface):
     ...
 
 
-if __name__ == "__init__":
+if __name__ == "__main__":
     p = LKMongoProvider()
